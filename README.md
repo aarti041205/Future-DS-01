@@ -84,20 +84,6 @@ The dashboard is designed to help businesses make data-driven decisions by ident
 
 ---
 
-## 📂 Project Structure
-
-Business-Sales-Performance-Analytics/
-│
-├── Dataset/
-├── Dashboard/
-├── Images/
-├── Report/
-└── README.md
----
-
-
----
-
 ## 🚀 Conclusion
 This project demonstrates how data analytics can help businesses understand performance, identify opportunities, and improve decision-making using interactive dashboards.
 
