@@ -76,11 +76,11 @@ The dashboard is designed to help businesses make data-driven decisions by ident
 ---
 
 ## 📸 Dashboard Preview
-<img width="1276" height="727" alt="image" src="https://github.com/user-attachments/assets/39c9479f-acf1-4e19-ba31-027e1d1e79c3" />
+<img width="1869" height="796" alt="Screenshot 2026-04-26 121618" src="https://github.com/user-attachments/assets/1fb59cdd-12fe-4fa7-bf47-82ff4b55046f" />
 
-<img width="1286" height="714" alt="image" src="https://github.com/user-attachments/assets/ee3eaf0b-e345-403f-ba6d-c025dc4cdcc0" />
+<img width="1872" height="792" alt="Screenshot 2026-04-26 121639" src="https://github.com/user-attachments/assets/3a112d4a-c54a-4893-b1e7-a65c1d9b1d68" />
 
-<img width="1274" height="714" alt="image" src="https://github.com/user-attachments/assets/ec2e08ce-1e0e-4579-8e1e-657f7f57921d" />
+<img width="1867" height="792" alt="Screenshot 2026-04-26 121656" src="https://github.com/user-attachments/assets/53bffcdf-0a04-410d-9c4c-17dad1e029c8" />
 
 ---
 
