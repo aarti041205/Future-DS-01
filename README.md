@@ -77,7 +77,9 @@ The dashboard is designed to help businesses make data-driven decisions by ident
 
 ## 📸 Dashboard Preview
 <img width="1276" height="727" alt="image" src="https://github.com/user-attachments/assets/39c9479f-acf1-4e19-ba31-027e1d1e79c3" />
+
 <img width="1286" height="714" alt="image" src="https://github.com/user-attachments/assets/ee3eaf0b-e345-403f-ba6d-c025dc4cdcc0" />
+
 <img width="1274" height="714" alt="image" src="https://github.com/user-attachments/assets/ec2e08ce-1e0e-4579-8e1e-657f7f57921d" />
 
 ---
